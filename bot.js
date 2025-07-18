@@ -4,7 +4,7 @@ import express from 'express';
 const SERVER_HOST = 'Antas.aternos.me'; // Coloque seu IP do Aternos aqui
 const SERVER_PORT = 56866; // Porta padrão do Bedrock
 const BOT_USERNAME = 'BotAFK'; // Nome do bot
-const VERSION = '1.21.93.1'; // Versão do servidor
+const VERSION = '1.21.93'; // Versão do servidor
 
 function startBot() {
   console.log('🔌 Conectando ao servidor Bedrock...');
