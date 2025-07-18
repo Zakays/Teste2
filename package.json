@@ -8,6 +8,7 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "bedrock-protocol": "github:PrismarineJS/bedrock-protocol#master"
+    "bedrock-protocol": "github:PrismarineJS/bedrock-protocol#master",
+    "express": "^4.19.2"
   }
 }
