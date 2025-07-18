@@ -1,6 +1,7 @@
 {
   "name": "bedrock-bot",
   "version": "1.0.0",
+  "type": "module",
   "description": "Bot Bedrock para manter Aternos online",
   "main": "bot.js",
   "scripts": {
